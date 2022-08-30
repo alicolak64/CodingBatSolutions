@@ -1,4 +1,4 @@
-public class theEnd {
+public class   {
 
     public String theEnd(String str, boolean front) {
 
@@ -6,6 +6,6 @@ public class theEnd {
             return str.substring(0,1);
         else 
             return str.substring(str.length()-1,str.length());
-            
+
       }
 }
