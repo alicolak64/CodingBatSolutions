@@ -1,4 +1,4 @@
-public class   {
+public class  theEnd {
 
     public String theEnd(String str, boolean front) {
 
